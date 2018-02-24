@@ -4,11 +4,11 @@
 
 Das IC des lauflichtssteuerung muss herrausgenommen werden
 
-![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Adruino/master/WildeMaus_3.PNG)
+![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
 
 ## Aufbau der Wilden Maus
 
-![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Adruino/master/WildeMaus.jpg)
+![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus.jpg)
 
 ``` c
 /* 
