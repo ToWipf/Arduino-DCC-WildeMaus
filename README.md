@@ -4,19 +4,19 @@
 
 Das IC der Lauflichtssteuerung muss herrausgenommen werden!
 
-Auf der Adresse 7 kann mit diesen Code über die F1 bis F9 Tasten die gesammte Wilde Maus gesteuert werden.
+Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte Wilde Maus gesteuert werden.
 
 |F Taste|Funktion|Pin|
 |:-:|:-:|:-:|
-|1|Motor|A0|
-|2|WildeMaus Anzeige An/Aus|A1|
-|3|Birnchen Teil 1|A2|
-|4|Birnchen Teil 2|A3|
-|5|WildeMaus Anzeige Bilnken|A1|
-|6|Laufliche Mode 1|D3,D4,D5|
-|7|Laufliche Mode 2|D3,D4,D5|
-|8|Laufliche Mode 3|D3,D4,D5|
-|9|Laufliche Mode 4|D3,D4,D5|
+|F1|Motor|A0|
+|F2|WildeMaus Anzeige An/Aus|A1|
+|F3|Birnchen Teil 1|A2|
+|F4|Birnchen Teil 2|A3|
+|F5|WildeMaus Anzeige Bilnken|A1|
+|F6|Laufliche Mode 1|D3,D4,D5|
+|F7|Laufliche Mode 2|D3,D4,D5|
+|F8|Laufliche Mode 3|D3,D4,D5|
+|F9|Laufliche Mode 4|D3,D4,D5|
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
 
