@@ -1,7 +1,8 @@
-# DCC-WildeMaus-Adruino
-Adruino DCC WildeMaus
+# Arduino DCC Wilde Maus
 
 ## Schaltplan
+
+Das IC des lauflichtssteuerung muss herrausgenommen werden
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Adruino/master/WildeMaus_3.PNG)
 
