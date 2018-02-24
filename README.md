@@ -1,11 +1,5 @@
 # Arduino DCC Wilde Maus
 
-## Schaltplan
-
-Das IC der Lauflichtssteuerung muss herrausgenommen werden!
-
-Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte Wilde Maus gesteuert werden.
-
 |F Taste|Funktion|Pin|
 |:-:|:-:|:-:|
 |F1|Motor|A0|
@@ -17,6 +11,12 @@ Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die ge
 |F7|Laufliche Mode 2|D3,D4,D5|
 |F8|Laufliche Mode 3|D3,D4,D5|
 |F9|Laufliche Mode 4|D3,D4,D5|
+
+## Schaltplan
+
+Das IC der Lauflichtssteuerung muss herrausgenommen werden!
+
+Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte Wilde Maus gesteuert werden.
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
 
