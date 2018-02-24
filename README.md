@@ -2,7 +2,7 @@
 
 ## Schaltplan
 
-Das IC des lauflichtssteuerung muss herrausgenommen werden
+Das IC der Lauflichtssteuerung muss herrausgenommen werden!
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
 
