@@ -2,11 +2,11 @@
 
 |F Taste|Funktion|Pin|
 |:-:|:-:|:-:|
-|F1|Motor|A0|
+|F1|Motor für Kettenzug An/Aus|A0|
 |F2|WildeMaus Anzeige An/Aus|A1|
 |F3|Birnchen Teil 1|A2|
 |F4|Birnchen Teil 2|A3|
-|F5|WildeMaus Anzeige Bilnken|A1|
+|F5|WildeMaus Anzeige Blinken|A1|
 |F6|Laufliche Mode 1|D3,D4,D5|
 |F7|Laufliche Mode 2|D3,D4,D5|
 |F8|Laufliche Mode 3|D3,D4,D5|
