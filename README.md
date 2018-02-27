@@ -1,6 +1,6 @@
-# Arduino DCC Wilde Maus
+# Arduino DCC WildeMaus
 
-Arduino sketch für _FALLER 140425 - Jubiläumsmodell „Wilde Maus“_
+Arduino sketch für _FALLER 140425 - Jubiläumsmodell „WildeMaus“_
 
 |F Taste|Funktion|Pin|
 |:-:|:-:|:-:|
@@ -18,7 +18,7 @@ Arduino sketch für _FALLER 140425 - Jubiläumsmodell „Wilde Maus“_
 
 Das IC der Lauflichtssteuerung muss herrausgenommen werden!
 
-Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte Wilde Maus gesteuert werden.
+Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte WildeMaus gesteuert (siehe Tabelle) werden.
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
 
@@ -465,3 +465,5 @@ void loop() {
   DCC.loop();
 }
 ```
+
+Der Schaltplan wurde von JoFri erstellt.
