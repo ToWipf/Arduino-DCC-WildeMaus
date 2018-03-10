@@ -20,11 +20,13 @@ Das IC der Lauflichtssteuerung muss herrausgenommen werden!
 
 Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesammte WildeMaus gesteuert (siehe Tabelle) werden.
 
-![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_3.PNG)
+![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_Plan.PNG)
 
 ## Aufbau der Wilden Maus
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus.jpg)
+![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus%20(2).jpg)
+![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus%20(3).jpg)
 
 ``` c
 /* 
