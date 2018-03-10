@@ -28,7 +28,7 @@ Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die ge
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus%20(2).jpg)
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus%20(3).jpg)
 
-[Link zur DCC_Decoder.h Datei](https://github.com/MynaBay/DCC_Decoder)
+Link zur [DCC_Decoder.h](https://github.com/MynaBay/DCC_Decoder) Datei
 
 ``` c
 /* 
