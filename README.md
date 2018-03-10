@@ -1,4 +1,4 @@
-# Arduino DCC WildeMaus
+# Arduino DCC Eisenbahn WildeMaus
 
 Arduino sketch für _FALLER 140425 - Jubiläumsmodell „WildeMaus“_
 
