@@ -470,4 +470,4 @@ void loop() {
 }
 ```
 
-Der Schaltplan wurde von JoFri erstellt.
+Der Schaltplan wurde von [JoFri](http://www.7fun.de/jofri/Eisenbahn/ProLok/Bahn/bahn.html) erstellt.
