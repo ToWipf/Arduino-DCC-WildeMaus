@@ -18,7 +18,7 @@ Arduino sketch für _FALLER 140425 - Jubiläumsmodell „WildeMaus“_
 
 Das IC der Lauflichtssteuerung muss herrausgenommen werden!
 
-Auf der Adresse **DCC 7** kann mit diesen Code über die F1 bis F9 Tasten die gesamte WildeMaus gesteuert (siehe Tabelle) werden.
+Unter einer DCC Adresse, kann mit diesen Arduino Programm über die Tasten F1 bis F9 die WildeMaus gesteuert werden.
 
 ![Bild](https://raw.githubusercontent.com/ToWipf/DCC-WildeMaus-Arduino/master/WildeMaus_Plan.PNG)
 
