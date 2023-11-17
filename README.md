@@ -30,4 +30,4 @@ Unter einer DCC Adresse, kann mit diesen Arduino Programm über die Tasten F1 bi
 
 Link zur [DCC_Decoder_libraries](https://github.com/MynaBay/DCC_Decoder) Datei
 
-Der Schaltplan wurde von [JoFri](http://www.7fun.de/jofri/) erstellt.
+Der Schaltplan wurde von [JoFri](https://jo-fri.github.io/Eisenbahn/WildeMaus) erstellt.
